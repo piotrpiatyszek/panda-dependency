@@ -1,9 +1,9 @@
 module panda-dependency
 
-public class PandaDependency {
+public class LDDependency {
 
     public static String getMessage() {
-        return 'Hello Panda'
+        return 'Hello @ld'
     }
 
 }

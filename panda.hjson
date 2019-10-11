@@ -1,6 +1,6 @@
 name: panda-dependency
 version: 1.0.1
-owner: dzikoysk
+owner: piotrpiatyszek
 
 scripts: {
     main: app.panda
