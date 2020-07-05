@@ -1,8 +1,8 @@
 module panda-dependency
 
-public class LDDependency {
+public type LDDependency {
 
-    public static String getMessage() {
+    public static getMessage () -> String {
         return 'Hello @ld'
     }
 
